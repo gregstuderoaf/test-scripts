@@ -1,5 +1,5 @@
-globals.main = function() {
-    sendReply("globals.main()");
+global.main = function() {
+    sendReply("global.main()");
 };
 
 var notMain = function() {
